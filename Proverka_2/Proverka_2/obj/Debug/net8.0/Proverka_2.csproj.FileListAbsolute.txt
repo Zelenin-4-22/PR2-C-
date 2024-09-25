@@ -1,0 +1,14 @@
+C:\Users\lolnok\source\repos\Proverka_2\Proverka_2\bin\Debug\net8.0\Proverka_2.exe
+C:\Users\lolnok\source\repos\Proverka_2\Proverka_2\bin\Debug\net8.0\Proverka_2.deps.json
+C:\Users\lolnok\source\repos\Proverka_2\Proverka_2\bin\Debug\net8.0\Proverka_2.runtimeconfig.json
+C:\Users\lolnok\source\repos\Proverka_2\Proverka_2\bin\Debug\net8.0\Proverka_2.dll
+C:\Users\lolnok\source\repos\Proverka_2\Proverka_2\bin\Debug\net8.0\Proverka_2.pdb
+C:\Users\lolnok\source\repos\Proverka_2\Proverka_2\obj\Debug\net8.0\Proverka_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolnok\source\repos\Proverka_2\Proverka_2\obj\Debug\net8.0\Proverka_2.AssemblyInfoInputs.cache
+C:\Users\lolnok\source\repos\Proverka_2\Proverka_2\obj\Debug\net8.0\Proverka_2.AssemblyInfo.cs
+C:\Users\lolnok\source\repos\Proverka_2\Proverka_2\obj\Debug\net8.0\Proverka_2.csproj.CoreCompileInputs.cache
+C:\Users\lolnok\source\repos\Proverka_2\Proverka_2\obj\Debug\net8.0\Proverka_2.dll
+C:\Users\lolnok\source\repos\Proverka_2\Proverka_2\obj\Debug\net8.0\refint\Proverka_2.dll
+C:\Users\lolnok\source\repos\Proverka_2\Proverka_2\obj\Debug\net8.0\Proverka_2.pdb
+C:\Users\lolnok\source\repos\Proverka_2\Proverka_2\obj\Debug\net8.0\Proverka_2.genruntimeconfig.cache
+C:\Users\lolnok\source\repos\Proverka_2\Proverka_2\obj\Debug\net8.0\ref\Proverka_2.dll
